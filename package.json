@@ -1,11 +1,10 @@
 {
-  "name": "@suger-tdy/typescript-starter",
+  "name": "@suger-tdy/color-generator",
   "version": "0.0.0",
   "packageManager": "pnpm@7.3.0",
-  "description": "starter project for typescript",
+  "description": "Generate Color By HSL",
   "keywords": [
-    "typescript-starter",
-    "ts-starter"
+    "color-generator"
   ],
   "license": "MIT",
   "author": "tangdaoyuan <1197633750@qq.com> (https://github.com/tangdaoyuan/)",
@@ -42,9 +41,9 @@
     "release": "bumpp --tag --commit --push && pnpm publish"
   },
   "bugs": {
-    "url": "https://github.com/tangdaoyuan/typescript-starter/issues"
+    "url": "https://github.com/tangdaoyuan/color-generator/issues"
   },
-  "homepage": "https://github.com/tangdaoyuan/typescript-starter#readme",
+  "homepage": "https://github.com/tangdaoyuan/color-generator#readme",
   "devDependencies": {
     "@suger-tdy/eslint-config": "1.1.5",
     "bumpp": "8.2.1",

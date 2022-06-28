@@ -20,7 +20,7 @@
       "@/*": [
         "src/*"
       ],
-      "typescript-starter/*": [
+      "@suger-tdy/color-generator/*": [
         "dist/*"
       ]
     }

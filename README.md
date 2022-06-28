@@ -1,3 +1,3 @@
-# typescript-starter
-> 
-> My starter project for typescript.
+# color-generator
+
+> Generate Color By HSL
