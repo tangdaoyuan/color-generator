@@ -1,6 +1,6 @@
 {
   "name": "@suger-tdy/color-generator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "packageManager": "pnpm@7.3.0",
   "description": "Generate Color By HSL",
   "keywords": [
