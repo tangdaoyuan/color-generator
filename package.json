@@ -28,6 +28,7 @@
     "*.d.ts"
   ],
   "scripts": {
+    "postinstall": "unbuild",
     "test": "vitest",
     "test:run": "vitest run",
     "typecheck": "tsc --noEmit",
