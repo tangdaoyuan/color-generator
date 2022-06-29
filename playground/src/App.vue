@@ -1,6 +1,6 @@
 <script lang="ts" setup>
 import { genColor } from '../../src'
-const colors = genColor(30)
+const colors = genColor(50)
 </script>
 <template>
   <div>
