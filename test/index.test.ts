@@ -1,5 +1,5 @@
 import { expect, it } from 'vitest'
-import { genColor } from '@'
+import { genColor, pickRandomColor } from '@'
 
 it('runs', () => {
   expect(genColor(5)).toMatchInlineSnapshot(`
@@ -36,4 +36,6 @@ it('runs', () => {
       },
     ]
   `)
+
+  expect(pickRandomColor(3)).toBeInstanceOf(Array)
 })
